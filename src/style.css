@@ -47,7 +47,11 @@ input{
 
 ol {padding-left: 20px;}
 
-ol li {padding: 5px;color:#000;}
+ol li {
+    padding: 5px;
+    color:#000;
+    text-align: left;
+}
 
 ol li:nth-child(even){background: #dfdfdf;}
 
